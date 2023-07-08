@@ -1,0 +1,352 @@
+.simpleIconsnike {
+  position: absolute;
+  top: 28px;
+  left: 52px;
+  width: 150px;
+  height: 121px;
+  overflow: hidden;
+}
+.mENDiv,
+.sALEDiv,
+.sKNRSDiv,
+.wOMENDiv {
+  position: absolute;
+  top: 70px;
+  left: 249px;
+  font-weight: 500;
+  display: inline-block;
+  width: 76px;
+  height: 36px;
+}
+.sALEDiv,
+.sKNRSDiv,
+.wOMENDiv {
+  left: 420px;
+  width: 90px;
+}
+.sALEDiv,
+.sKNRSDiv {
+  left: 605px;
+}
+.sKNRSDiv {
+  left: 790px;
+}
+.div,
+.rectangleDiv {
+  position: absolute;
+  top: 668px;
+}
+.div {
+  left: 20px;
+  font-size: 64px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: inline-block;
+  width: 299px;
+  height: 98px;
+}
+.rectangleDiv {
+  left: 364px;
+  border-radius: 875px;
+  background-color: #fff;
+  box-shadow: 5px 8px 22px rgba(0, 0, 0, 0.25);
+  width: 221px;
+  height: 81px;
+}
+.addToCart,
+.lebaghDiv,
+.nikeAirMax {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.addToCart {
+  top: 694px;
+  left: 321px;
+  font-size: 24px;
+  font-weight: 500;
+  width: 309px;
+  height: 88px;
+}
+.lebaghDiv,
+.nikeAirMax {
+  top: 0;
+  left: 55.16px;
+  width: 459.37px;
+  height: 115.92px;
+}
+.lebaghDiv {
+  top: 93.45px;
+  left: 0;
+  font-size: 119.52px;
+  font-weight: 300;
+  color: #fc7733;
+  width: 529px;
+  height: 151.86px;
+}
+.whatKindOf {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fromRunningAnd {
+  margin: 0;
+}
+.whatKindOfShoesDoesNikeM {
+  position: absolute;
+  top: 271.37px;
+  left: 64.2px;
+  font-size: 14.82px;
+  letter-spacing: 0.04em;
+  line-height: 151.52%;
+  text-transform: capitalize;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 450.33px;
+  height: 183.31px;
+}
+.heroElementsDiv {
+  position: absolute;
+  top: 205px;
+  left: 43px;
+  width: 529px;
+  height: 454.68px;
+  font-size: 74.12px;
+}
+.jUSTDOIT,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 642.5px;
+  left: 6px;
+  width: 1439px;
+  height: 1px;
+}
+.jUSTDOIT,
+.vectorIcon1 {
+  top: 137px;
+  left: 3px;
+  width: 1433.5px;
+}
+.jUSTDOIT {
+  top: 88px;
+  left: 650px;
+  font-size: 236px;
+  text-transform: capitalize;
+  font-weight: 200;
+  color: #fa8341;
+  display: inline-block;
+  width: 573px;
+  height: 990px;
+  opacity: 0.1;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 200.25px;
+  left: 31.99px;
+  border-radius: 35px;
+  background-color: #d9d9d9;
+  width: 254.51px;
+  height: 152.87px;
+}
+.airMax2xShoeWh9d6PRemovebIcon {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  border-radius: 18px;
+  width: 283.69px;
+  height: 328.94px;
+  object-fit: cover;
+}
+.b,
+.nIKEAIRTAKEONE {
+  position: absolute;
+  top: 258.36px;
+  left: 53px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 89.3px;
+  height: 42.91px;
+}
+.b {
+  top: 265.56px;
+  left: 185.81px;
+  width: 87.51px;
+  height: 33.08px;
+}
+.starIcon,
+.starIcon1,
+.starIcon2,
+.starIcon3,
+.starIcon4 {
+  position: absolute;
+  top: 297.7px;
+  left: 60.05px;
+  width: 15.18px;
+  height: 17.88px;
+}
+.starIcon1,
+.starIcon2,
+.starIcon3,
+.starIcon4 {
+  left: 75.2px;
+  width: 14.29px;
+}
+.starIcon2,
+.starIcon3,
+.starIcon4 {
+  left: 89.51px;
+  width: 15.18px;
+}
+.starIcon3,
+.starIcon4 {
+  left: 102.91px;
+}
+.starIcon4 {
+  left: 119.88px;
+}
+.akarIconscirclePlus,
+.rectangleDiv2 {
+  position: absolute;
+  top: 320.05px;
+  left: 258.81px;
+  border-radius: 10px;
+  width: 38.4px;
+}
+.rectangleDiv2 {
+  background-color: #000;
+  height: 33.08px;
+}
+.akarIconscirclePlus {
+  height: 32.18px;
+  overflow: hidden;
+}
+.groupDiv,
+.groupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 299px;
+  height: 353.13px;
+}
+.groupDiv {
+  top: 659.87px;
+  left: -10px;
+  font-size: 16px;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 200.25px;
+  left: 32.85px;
+  border-radius: 35px;
+  background-color: #d9d9d9;
+  width: 261.32px;
+  height: 152.87px;
+}
+.airMax2xShoeWh9d6PRemovebIcon1 {
+  position: absolute;
+  top: 5.9px;
+  left: 5.41px;
+  border-radius: 18px;
+  width: 296.17px;
+  height: 329.14px;
+  object-fit: cover;
+}
+.b1,
+.nIKEAIRTAKEONE1 {
+  position: absolute;
+  top: 258.36px;
+  left: 59px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 91.69px;
+  height: 42.91px;
+}
+.b1 {
+  top: 263.35px;
+  left: 187px;
+  width: 89.86px;
+  height: 33.08px;
+}
+.starIcon5,
+.starIcon6,
+.starIcon7,
+.starIcon8,
+.starIcon9 {
+  position: absolute;
+  top: 297.7px;
+  left: 61.65px;
+  width: 15.59px;
+  height: 17.88px;
+}
+.starIcon6,
+.starIcon7,
+.starIcon8,
+.starIcon9 {
+  left: 77.22px;
+  width: 14.67px;
+}
+.starIcon7,
+.starIcon8,
+.starIcon9 {
+  left: 91.91px;
+  width: 15.59px;
+}
+.starIcon8,
+.starIcon9 {
+  left: 105.66px;
+}
+.starIcon9 {
+  left: 123.08px;
+}
+.akarIconscirclePlus1,
+.rectangleDiv4 {
+  position: absolute;
+  top: 320.05px;
+  left: 265.74px;
+  border-radius: 10px;
+  width: 39.43px;
+}
+.rectangleDiv4 {
+  background-color: #000;
+  height: 33.08px;
+}
+.akarIconscirclePlus1 {
+  height: 32.18px;
+  overflow: hidden;
+}
+.groupDiv2,
+.groupDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 307px;
+  height: 353.13px;
+}
+.groupDiv2 {
+  top: 659.87px;
+  left: 278px;
+  font-size: 16px;
+}
+.shoe1Icon {
+  position: absolute;
+  top: 0;
+  left: 585px;
+  width: 855px;
+  height: 1024px;
+  object-fit: cover;
+}
+.fRAMEDiv {
+  position: relative;
+  border-radius: 54px;
+  background-color: #f3f3f3;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 20px;
+  color: #000;
+  font-family: Inter;
+}
